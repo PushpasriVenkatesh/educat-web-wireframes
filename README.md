@@ -31,7 +31,7 @@ https://www.figma.com/design/Z8aIcNhEJceHJJboKD5DuO/Untitled?node-id=0-1&t=OMpz6
     - login.png
     - dashboard.png
 
-****Tools Used**
+**Tools Used**
 
 >Figma – For designing wireframes
 >GitHub – For version control & submission
