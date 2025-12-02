@@ -13,10 +13,15 @@ These wireframes focus on clarity, usability, and minimalistic layout decisions 
 The following screens are included in this wireframe set:
 
 > Home Page
+
 > Course Listing Page
+
 > Course Details Page
+
 > User Login / Sign-Up Pages
+
 > Dashboard View
+
 > Settings / Profile Page
 
 ****Figma Prototype Link****
@@ -39,8 +44,11 @@ https://www.figma.com/design/Z8aIcNhEJceHJJboKD5DuO/Untitled?node-id=0-1&t=OMpz6
 ****Purpose of This Repository****
 
 This repository is created as part of an academic/learning assignment to demonstrate:
+
          Understanding of low-fidelity wireframing
+         
          Ability to document and publish work using GitHub
+         
          Basic UX planning for a web application
 
 ****Author****
